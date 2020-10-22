@@ -1,5 +1,6 @@
 class salary{
     public static void main(String[]args){
-        System.out.println("Jai swaminarayan")
+        System.out.println("Jai swaminarayan");
+        System.out.println("Das na das")
     }
 }

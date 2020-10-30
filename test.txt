@@ -3,6 +3,7 @@ class salary{
         System.out.println("Jai swaminarayan");
         System.out.println("Das na das");
 	System.out.println("good morning");
+	System.out.println("how are u?")
     }
 }
 

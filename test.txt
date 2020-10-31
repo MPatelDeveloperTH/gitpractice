@@ -5,6 +5,7 @@ class salary{
 	System.out.println("good morning");
 	System.out.println("how are u?")
 	happy Diwali!!
+	happy holi!!
     }
 }
 

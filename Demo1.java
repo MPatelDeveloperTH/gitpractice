@@ -1,6 +1,6 @@
-//Java is case sensitive langauge
-//1. Name of Java Class having first letter of each word is capital
-//e.g. DataInputStream, String, SimpleCursorAdapter
+//Java is case sensitive langauge.
+//1. Name of Java Class having first letter of each word is capital.
+//e.g. DataInputStream, String, SimpleCursorAdapter.
 
 //2. Name of Java Method having first word in small lettter and from 2nd words onwards first letter
 	//of each word is capital
